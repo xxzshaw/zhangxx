@@ -1,0 +1,3 @@
+# zhangxx
+zhangxx
+主要根据这两篇文献讲解othofinder原理，还会讲解直系同源与旁系同源基因的区分，以及othofinder的使用和结果文件的解读
